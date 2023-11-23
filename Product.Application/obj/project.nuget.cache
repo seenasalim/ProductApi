@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sfm3TdTgfoqDEZz/bAgX30rGtiRpnHxp4j/VoLrNzQWqHrlkZGa5BdpCig6xQgF7HwW1sDK0b0+EaV1p6djORg==",
+  "dgSpecHash": "S0HQ59FLVHf5c4u23YesGBJUQb47FMohegrVW1B1ez5pnxLyoKkOAkALKuoAc0WWg+1pvE5IVTQ6eKtdMJHwxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\seena\\source\\repos\\ProductApi\\Product.Application\\Product.Application.csproj",
+  "projectFilePath": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.Application\\Product.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seena\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\seena\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Prodcut.Infrastructure
-build_property.ProjectDir = C:\Users\seena\source\repos\ProductApi\Prodcut.Infrastructure\
+build_property.ProjectDir = C:\Users\seena\Source\Repos\ProductApi\Prodcut.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
