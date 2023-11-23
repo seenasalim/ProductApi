@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FuYGB6jb5LLhRwgBwITucuqtGt11WSWCst+DMU6KZw3ZfY47NeUj4zpRsOiz5S+IXRSrXcuP8i0BKvigJyFVYA==",
+  "dgSpecHash": "g61peINhrg69EUzqsFIedF3zb+/hvRff+F8aVYxjRvIGS8ckVJbrAuOOZERUMN9yCWBdHvubfsGdp/Wv9Ac0oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.domain\\Product.domain.csproj",
+  "projectFilePath": "C:\\Users\\seena\\source\\repos\\ProductApi\\Product.domain\\Product.domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Quu3KVwGBAPHxvw+SZ7zkxltNsXyAPMPujr+Vz5L/DVpzWGGNAPrpW4iZe7g0Jk4wzXUVH5/ggAvCXqL17PvA==",
+  "dgSpecHash": "PqK0h9p/Q+XuK7E/zik/E7sDUs/u4Sy8HrSitvvZpinuuVcGbTgrZTYvbK6nc9c0oIpiTONDPq54OfX5TtzTaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Prodcut.Infrastructure\\Prodcut.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\seena\\source\\repos\\ProductApi\\Prodcut.Infrastructure\\Prodcut.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seena\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\seena\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

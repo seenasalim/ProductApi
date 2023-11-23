@@ -1295,9 +1295,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.Application\\Product.Application.csproj",
+      "projectUniqueName": "C:\\Users\\seena\\source\\repos\\ProductApi\\Product.Application\\Product.Application.csproj",
       "projectName": "Product.Application",
-      "projectPath": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.Application\\Product.Application.csproj",
+      "projectPath": "C:\\Users\\seena\\source\\repos\\ProductApi\\Product.Application\\Product.Application.csproj",
       "packagesPath": "C:\\Users\\seena\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.Application\\obj\\",
       "projectStyle": "PackageReference",
@@ -1321,8 +1321,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.domain\\Product.domain.csproj": {
-              "projectPath": "C:\\Users\\seena\\Source\\Repos\\ProductApi\\Product.domain\\Product.domain.csproj"
+            "C:\\Users\\seena\\source\\repos\\ProductApi\\Product.domain\\Product.domain.csproj": {
+              "projectPath": "C:\\Users\\seena\\source\\repos\\ProductApi\\Product.domain\\Product.domain.csproj"
             }
           }
         }
