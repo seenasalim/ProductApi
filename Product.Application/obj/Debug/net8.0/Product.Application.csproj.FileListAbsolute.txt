@@ -1,0 +1,16 @@
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.csproj.AssemblyReference.cache
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.AssemblyInfoInputs.cache
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.AssemblyInfo.cs
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.csproj.CoreCompileInputs.cache
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.sourcelink.json
+C:\Users\seena\source\repos\ProductApi\Product.Application\bin\Debug\net8.0\Product.Application.deps.json
+C:\Users\seena\source\repos\ProductApi\Product.Application\bin\Debug\net8.0\Product.Application.dll
+C:\Users\seena\source\repos\ProductApi\Product.Application\bin\Debug\net8.0\Product.Application.pdb
+C:\Users\seena\source\repos\ProductApi\Product.Application\bin\Debug\net8.0\Product.domain.dll
+C:\Users\seena\source\repos\ProductApi\Product.Application\bin\Debug\net8.0\Product.domain.pdb
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.csproj.CopyComplete
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.dll
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\refint\Product.Application.dll
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\Product.Application.pdb
+C:\Users\seena\source\repos\ProductApi\Product.Application\obj\Debug\net8.0\ref\Product.Application.dll
